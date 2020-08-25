@@ -1,0 +1,13 @@
+{
+    "name":"YT",
+    "version": "0.1",
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+      ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "manifest_version":2
+}
